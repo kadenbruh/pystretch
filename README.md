@@ -2,7 +2,7 @@
 A basic Python GUI that stretches your resolution. Meant for new Linux users who play competitive PC games.
 
 ## Prerequisites
-* Python
+* Python (99% you will have this already)
 * pip
 * git
 * xrandr (99% you will have this already)
