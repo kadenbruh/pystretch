@@ -20,6 +20,12 @@ git clone https://github.com/atkbrz/pystretch
 cd pystretch
 python pystretch.py
 ```
+## Launch graphically
+1. Make it executable
+```
+chmod +x ~/pystretch/pystretch.py
+```
+2. Drag the folder to where and open by double clicking with your file manager.
 
 ## Configuration 
 Default configuration file included was made for my setup. Please change to your needs. The configuration file is very self explanatory even for those who are new to Linux. As long as you have done stretched resolution modifications on Windows before, it should be straightforward. 
