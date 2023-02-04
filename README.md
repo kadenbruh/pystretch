@@ -5,6 +5,7 @@ A basic Python GUI that stretches your resolution. Meant for new Linux users who
 * Python
 * pip
 * git
+* xrandr (99% you will have this)
 
 ## Install
 1. Get PySimpleGUI
