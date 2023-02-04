@@ -1,6 +1,8 @@
 # pystretch
 A basic Python GUI that stretches your resolution. Meant for new Linux users who play competitive PC games.
 
+![screenshot](https://cdn.discordapp.com/attachments/1040887503420395604/1071304466319552604/image.png)
+
 ## Prerequisites
 * Python (99% you will have this already)
 * pip
