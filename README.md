@@ -18,3 +18,10 @@ git clone https://github.com/atkbrz/pystretch
 cd pystretch
 python pystretch.py
 ```
+
+## Configuration
+Default configuration file included was made for my setup. Please change to your needs.
+```
+cd pystretch
+sudo nano config.sh
+```
