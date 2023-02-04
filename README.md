@@ -19,9 +19,13 @@ cd pystretch
 python pystretch.py
 ```
 
-## Configuration
-Default configuration file included was made for my setup. Please change to your needs.
+## Configuration 
+Default configuration file included was made for my setup. Please change to your needs. The configuration file is very self explanatory even for those who are new to Linux. As long as you have done stretched resolution modifications on Windows before, it should be straightforward. 
 ```
 cd pystretch
 sudo nano config.sh
+```
+Need help finding what your monitor is?
+```
+xrandr | grep " connected " | awk '{ print$1 }'
 ```
